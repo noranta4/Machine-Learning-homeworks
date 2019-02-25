@@ -1,6 +1,6 @@
 # Machine Learning exercises
 
-Machine Learning homeworks from the ML course.
+Machine Learning homeworks from the ML course, prof. Barbara Caputo.
 
 University project • 2016 - Machine Learning - MSc in Computer Science, I year
 
